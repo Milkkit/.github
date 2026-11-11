@@ -1,3 +1,5 @@
+![Milkkit Logo](https://github.com/Milkkit/.github/blob/main/profile/logo.png)
+
 # What's Milkkit?
 
 The Milkkit Project is an innovative Discord community built to support aspiring Minecraft plugin developers. By providing a dedicated platform where creators can showcases, share, and promote their plugins, the project helps newbies gain exposure, build their user base, and connect with like-minded developers to collaborate and grow together.
