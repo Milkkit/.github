@@ -4,9 +4,11 @@ The Milkkit Project is an innovative Discord community built to support aspiring
 
 # Support & Discord
 Open a Support ticket. If you have a problem or question.
+
 [Discord](https://discord.gg/kt3Ap6gSU3)
 
 # Follow us on Social Media
 
 [Instagram](https://www.instagram.com/craftmilkkit/)
+
 [X](https://x.com/CraftMilkkit)
