@@ -7,7 +7,7 @@ The Milkkit Project is an innovative Discord community built to support aspiring
 # Support & Discord
 Open a Support ticket. If you have a problem or question.
 
-[Discord](https://discord.gg/kt3Ap6gSU3)
+<iframe src="https://discord.com/widget?id=1568375517659398346&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 # Follow us on Social Media
 
